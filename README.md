@@ -4,8 +4,7 @@
 - 💻 I'm constantly learning and exploring new technologies.
 - 💬 Ask me about PHP, Laravel, SQL, or anything related to web development.
 
-## Connect with Me:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/hedaya-adel-096735244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+💼 Connect with me: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/hedaya-adel-096735244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ## Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
