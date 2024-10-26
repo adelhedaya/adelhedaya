@@ -10,7 +10,7 @@
 ---
 
 ## 🛠️ Tech Stack:
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; margin-top: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
